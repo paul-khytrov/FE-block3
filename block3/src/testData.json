@@ -1,0 +1,42 @@
+{
+    "questions":
+    [
+        {
+            "question":"2+2=?",
+            "answers":[
+                {"answer":"5", "isCorrect":false}, 
+                {"answer":"4", "isCorrect":true}
+            ]
+        },
+        {
+            "question":"At what age I was born?",
+            "answers":[
+                {"answer":"0", "isCorrect":false}, 
+                {"answer":"4", "isCorrect":true}
+            ]
+        },
+        {
+            "question":"Who is in Paris?",
+            "answers":[
+                {"answer":"Fellas", "isCorrect":false}, 
+                {"answer":"I am legally not allowed to say that", "isCorrect":true}
+            ]
+        },
+        {
+            "question":"What is the age of consent?",
+            "answers":[
+                {"answer":"16", "isCorrect":false}, 
+                {"answer":"18", "isCorrect":true}
+            ]
+        },
+        {
+            "question":"Who is Elation?",
+            "answers":[
+                {"answer":"Aha", "isCorrect":false}, 
+                {"answer":"Me", "isCorrect":true}
+            ]
+        }
+    
+    ]
+}
+   

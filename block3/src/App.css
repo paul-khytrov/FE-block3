@@ -1,0 +1,58 @@
+/* Dark theme funky styles */
+
+/* Body background and font color */
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Funky styles for headings */
+h1 {
+  font-size: 3rem;
+  color: #ff007f;
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #00ff7f;
+  text-transform: uppercase;
+}
+
+/* Funky styles for buttons */
+button {
+  background-color: #ff7f00;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+button:hover {
+  background-color: #ffbf00;
+}
+
+/* Funky styles for lists */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Funky styles for links */
+a {
+  color: #007fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #00ffbf;
+}
